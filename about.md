@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a Umang. Working in role of Hardware Verification Engineer @Mentor Graphics, on Verification IP development projects.
+Aside from this I have a keen interest in hardware design, FPGA development, and RTL coding.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[umanggarg96@gmail.com](mailto:umanggarg96@gmail.com)
